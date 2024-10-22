@@ -1,4 +1,5 @@
 # Pull Requests
 
-John Hilton: https://github.com/nmedari/Drahtesel/pull/2
-Korbin Hillan: https://github.com/nmedari/Drahtesel/pull/3
+John Hilton: https://github.com/nmedari/Drahtesel/pull/2 \
+Korbin Hillan: https://github.com/nmedari/Drahtesel/pull/3 \
+Joshua Walker https://github.com/jmjava444/Schneebesen-Team-Icebreaker/pull/1
